@@ -114,7 +114,7 @@
 <br>
 
 <p align="center">
-        <img alt="AliPythonDev streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AliPythonDev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="AliPythonDev streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlleyNawaz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
 ## 📊 My GitHub Stats
