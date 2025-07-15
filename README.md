@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome to My GitHub Profile
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Building with Purpose and Precision
 </h1>
 
 <p align="center">
@@ -9,7 +9,6 @@
 <p align="center">
    <a href="https://github.com/AlleyNawaz">
    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=1&pause=10000000&color=0303C5&center=true&repeat=false&width=435&lines=I+am+Ali+Nawaz" alt="Ali Nawaz" /></a>
-   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Software+Engineer; Full+Stack+Developer; DevOps+Engineer; Data+Scientist;&font=Fira%20Code&center=true&width=600&height=45&color=0F8D0F&vCenter=true&pause=1000&size=22" />
    </a>
 </p>
